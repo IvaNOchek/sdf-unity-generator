@@ -244,7 +244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_sdfVisualiserShader: {fileID: 4800000, guid: 54e92d33a63682f47928d68e87300c50,
     type: 3}
-  m_sdfTexture: {fileID: 11700000, guid: 2a7c1ed086ab4e6409d255a8e486de7c, type: 2}
+  m_sdfTexture: {fileID: 11700000, guid: 54f70cf47f3ae564a8e253f9d833ba74, type: 2}
   m_sdfScale: 1
   m_sdfPosition: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
